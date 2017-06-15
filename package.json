@@ -1,0 +1,13 @@
+{
+  "name": "Panda-killer",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "redis": "^2.7.1",
+    "restify": "^4.3.0"
+  }
+}
